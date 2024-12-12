@@ -1,3 +1,5 @@
+// Backend Express connected using GitHub Repo for Express and MongoDB using Youtube tutorials
+
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
